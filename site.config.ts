@@ -9,8 +9,8 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'wr8 Demo',
-  domain: 'demo.wr8.in',
+  name: 'SoTayMMO',
+  domain: 'sotaymmo.com',
   author: 'Mighil',
   seotitle: 'Demo Site Created with wr8',
 
@@ -54,15 +54,15 @@ export default siteConfig({
   navigationLinks: [   
     {
       title: 'Blog',
-      pageId: '588031c1e65d4dfa9d58e2492c9c1b7e'
+      pageId: '37c739d007e14067b1786c2600234055'
     },    
     {
       title: 'About',
-      pageId: 'cf2ae3c4839e4e09a1b4a33cc600c409'
+      pageId: 'f98795afe5c2449cb14ea28027cabf17'
     },
     {
       title: 'Contact',
-      pageId: '5f7e562fef814299b10c68c52e920c9a'
+      pageId: 'a0dc8c722b0c45719216837be41a085e'
     }
   ]
 })
