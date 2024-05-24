@@ -12,10 +12,10 @@ export default siteConfig({
   name: 'SoTayMMO',
   domain: 'sotaymmo.com',
   author: 'Sổ Tay MMO',
-  seotitle: 'Everything You Need to Make Money Online',
+  seotitle: 'SotayMMO | Sổ Tay Kiếm Tiền Online',
 
   // open graph metadata (optional)
-  description: 'This is a demo website created with wr8.',
+  description: 'Sổ Tay Make Money Online',
 
   // social usernames (optional)
   twitter: 'jotzilla',
