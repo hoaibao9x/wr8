@@ -11,8 +11,8 @@ export default siteConfig({
   // basic site info (required)
   name: 'SoTayMMO',
   domain: 'sotaymmo.com',
-  author: 'Mighil',
-  seotitle: 'Demo Site Created with wr8',
+  author: 'Sổ Tay MMO',
+  seotitle: 'Everything You Need to Make Money Online',
 
   // open graph metadata (optional)
   description: 'This is a demo website created with wr8.',
