@@ -63,6 +63,10 @@ export default siteConfig({
     {
       title: 'Contact',
       pageId: '46a397bfa2f04a1e861ba56c06db2964'
+    },
+    {
+      title: 'Trend🥵',
+      pageId: '46a397bfa2f04a1e861ba56c06db2964'
     }
   ]
 })
